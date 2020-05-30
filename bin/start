@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../environment'
+
+CLI_instance = CLI.new 
+CLI_instance.start 
