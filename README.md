@@ -1,6 +1,6 @@
 # Hearthstone
 
-Hearthstone Gem! This gem has a list of all the mage specific spells at the time of last commit, in a single command line interface.
+Welcome to my Hearthstone Gem! This gem has a list of all the mage specific spells at the time of last commit, in a single command line interface.
 
 ## Installation
 
