@@ -12,6 +12,7 @@ class API
         response = http.request(request)
         hash = JSON.parse(response.read_body)
         #binding.pry
+        # creating each card from our api
         array_of_cards = hash
         array_of_cards.each do |card_hash|
             card_instance = Mage.new 
